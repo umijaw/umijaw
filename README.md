@@ -1,6 +1,6 @@
 ### **Vous pouvez exécuter le programme avec la commande :**
 
-### `./huffman_compression`
+### `./huffman_compression_c`
 
 Vous devez mettre :
 
